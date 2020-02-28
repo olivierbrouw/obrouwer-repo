@@ -1,2 +1,4 @@
-first line
+new first line
+modified first line
 second line
+third line
