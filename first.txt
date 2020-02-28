@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 new first line
 modified first line
 second line
 third line
 line in branch
-=======
-first line
->>>>>>> parent of c9c6b39... added second line
